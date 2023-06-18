@@ -1,0 +1,4 @@
+user-agent: *
+disallow:
+allow:/
+sitemap: https://myflix-six.vercel.app
